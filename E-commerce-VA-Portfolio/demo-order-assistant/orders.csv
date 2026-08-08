@@ -1,0 +1,1 @@
+"order_id,customer_name,email,item,quantity,price\n1001,Alice,alice@example.com,Blue T-Shirt,2,19.99\n1002,Bob,bob@example.com,Red Hat,1,15.50\n1003,Carol,carol@example.com,Coffee Mug,3,6.75\n"
